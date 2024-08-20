@@ -1,2 +1,2 @@
 # mini-project
-This is project purpose is pratices & Learnin.
+This is project purpose is pratices & Learning.
